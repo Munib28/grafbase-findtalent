@@ -30,4 +30,3 @@ const jwt = auth.JWT({
 export default config({
   schema: g
 })
-
